@@ -1,2 +1,4 @@
 test line 1
 
+bug fixed in v1 :)
+
